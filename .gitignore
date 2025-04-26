@@ -1,0 +1,18 @@
+# Ignore dataset
+quickData/
+
+# Ignore model checkpoints if big
+*.h5
+*.keras
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore node_modules (frontend)
+node_modules/
+
+# Ignore virtual environments if any
+venv/
+.env/

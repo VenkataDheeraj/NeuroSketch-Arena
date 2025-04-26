@@ -1,0 +1,13 @@
+Models,Accuracy
+Baseline CNN (v1),0.8348333239555359
+Deeper CNN (v2),0.7975666522979736
+Deep CNN + SGD (v3),0.8048333525657654
+BatchNorm CNN (v4),0.8360333442687988
+Baseline ViT (v1),0.7840333580970764
+Deeper ViT (v2),0.7777000069618225
+ViT + SGD + More Epochs (v3),0.7932666540145874
+ViT Wider Embed + Dropout (v4),0.718666673
+Hybrid: 2-Conv + 2-Transformer (Baseline),0.8284000158309937
+Hybrid: 3-Conv + 2-Transformer,0.834933341
+Hybrid: 2-Conv + 3-Transformer + PosEnc,0.8302666544914246
+Hybrid: 3-Conv + 3-Transformer + PosEnc,0.8127999901771545

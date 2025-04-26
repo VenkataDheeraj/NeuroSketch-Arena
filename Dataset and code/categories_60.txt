@@ -1,0 +1,60 @@
+alarm clock
+apple
+arm
+axe
+banana
+baseball bat
+bed
+bench
+book
+broom
+bucket
+bus
+butterfly
+cactus
+campfire
+candle
+cannon
+car
+carrot
+circle
+clock
+cloud
+compass
+cookie
+crayon
+crown
+diamond
+donut
+dumbbell
+envelope
+fan
+flashlight
+foot
+fork
+hammer
+hand
+hourglass
+knife
+ladder
+leaf
+light bulb
+lollipop
+moon
+mountain
+mushroom
+nail
+pencil
+pizza
+smiley face
+square
+star
+stethoscope
+sun
+toothbrush
+tree
+triangle
+umbrella
+wheel
+windmill
+wine bottle

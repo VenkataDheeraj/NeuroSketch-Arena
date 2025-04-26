@@ -1,0 +1,13 @@
+# Backend server
+fastapi
+uvicorn
+tensorflow
+pillow
+python-multipart
+
+# Model training and evaluation
+numpy
+scikit-learn
+matplotlib
+tqdm
+requests
